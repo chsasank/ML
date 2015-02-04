@@ -1,0 +1,3 @@
+With increasing samples, we get better boundaries for same k.
+We get near exact boundaries when both k & n gets large but k should not increase as fast as n.
+With increasing complexity we need more smaples to capture the boundaries. Also in this case, k needs to be small for same number of samples to capture the boundaries.
